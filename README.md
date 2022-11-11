@@ -1,4 +1,4 @@
-# MetaTrade-cpp-demo
+# MetaTrade交易接口购买
 联系方式
 QQ：121463726
 QQ：1841085904
